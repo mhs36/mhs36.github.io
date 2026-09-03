@@ -10,7 +10,7 @@
   - Conquesters Initiated
 
 - **Chosen Name**: FlyWheel
-- **About the name**: FlyWheel 
+- **About the name**: FlyWheel because it sounds cool and has a lot of references/analogies
 - **Social Medias with name available**:
 - **Possible domain names available**:
 
@@ -26,19 +26,19 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- Value 1: Realistic (but simplified) graphics (not Unreal Engine slop)
+- Value 1: Realistic (but simplified) graphics (basically not Unreal Engine slop)
 - Value 2: Development should take place in multiple small steps, so that there are constantly goals to meet that don't take weeks.
-- Value 3: Games should always prioritize fun over realism; realism should only enhance the gameplay, not limit it.
-- Value 4: Gameplay that isn't repetitive.
+- Value 3: Gameplay should always prioritize fun over realism; realism should only enhance the gameplay, not limit it.
+- Value 4: IF anything in the game is repeatedly repetitive, then changes must be made.
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** Mainly casual but experienced players, 
+- **Demographic:** Mainly casual but experienced players
 - **Interests:** Multiplayer or Story-based game with grim elements, Realistic Shooters, Building/Drawing games (i.e., Minecraft and Mecha Cameleon)
-- **Platforms:** ONLY PC (maybe console if porting controls is easy)
+- **Platforms:** ONLY PC (maybe console if porting controls is viable)
 
 ---
 
