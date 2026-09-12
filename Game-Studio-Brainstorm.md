@@ -54,9 +54,9 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> Unique mechanics would be on a per-game basis, taking a lot of details from games like Big Walk, Nuclear Nightmare, and Half-Life 2
-> Storytelling would preferably be on the level of TellTale Games, but with less decision making in the process to make the gameplay more streamlined (easy to develop)
-> Players should be able to interact with everything in the world (i.e., ragdolls, physics, and destruction)
+- Unique mechanics would be on a per-game basis, taking a lot of details from games like Big Walk, Nuclear Nightmare, and Half-Life 2
+- Storytelling would preferably be on the level of TellTale Games, but with less decision making in the process to make the gameplay more streamlined (easy to develop)
+- Players should be able to interact with everything in the world (i.e., ragdolls, physics, and destruction)
 
 ---
 
