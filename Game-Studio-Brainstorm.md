@@ -81,7 +81,7 @@
   - Tagline 3: "We keep going"
 
 -- **Sketches/Logo**:
-
+    <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/4495bd2d-1008-4d1f-98b0-50492291e383" />
 ---
 
 ## Additional Notes
