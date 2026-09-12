@@ -11,15 +11,15 @@
 
 - **Chosen Name**: FlyWheel
 - **About the name**: FlyWheel because it sounds cool and has a lot of references/analogies
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Social Medias with name available**: only twitter :sob:
+- **Possible domain names available**: flywheelgamestudio.com, flywheelgamestudio.io
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> We make games that capture the essence of games of the 2010s, while remaining fun and using modern technology to enhance the PLAYER experience and not milk their wallets dry.
 
 ---
 
