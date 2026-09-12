@@ -19,7 +19,7 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> We make games that capture the essence of games of the 2010s, while remaining fun and using modern technology to enhance the PLAYER experience and not milk their wallets dry.
+- We make games that capture the essence of games of the 2010s, while remaining fun and using modern technology to enhance the PLAYER experience and not milk their wallets dry.
 
 ---
 
